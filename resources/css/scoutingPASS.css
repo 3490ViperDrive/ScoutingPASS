@@ -58,7 +58,7 @@ html, body{
 }
 
 #prematchHeader1, #prematchHeader2{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     border-color: rgb(0, 0, 0);
     border-width: 7px;
 }
