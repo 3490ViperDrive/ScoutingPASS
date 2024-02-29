@@ -48,7 +48,7 @@ html, body{
     border-width: 4px;
 }
 
-#postmatchHeader{
+#postmatchHeader, #postmatchHeaderh2{
     border-width: 4px;
     border-color: rgb(0, 0, 0);
     color: black
@@ -113,10 +113,11 @@ h1{
     text-align: center;
     border-style: groove;
     border-color: rgb(0, 0, 0);
-    border-width: 2px;
+    border-width: 4px;
     font-size: 40px;
     padding: 10px;
     font-weight: 350;
+    color: black;
 }
 
 #page2, #page4 {
@@ -126,9 +127,13 @@ h1{
 h2{
     font-family: Alexis;
     text-align: center;
-    font-size: 30px;
-    font-weight: 300;
-    font-style: italic;
+    border-color: black;
+    border-style: groove;
+    border-width: 4px;
+    font-size: 40px;
+    padding: 10px;
+    font-weight: 350;
+    color: black;
 }
 
 .match-label{

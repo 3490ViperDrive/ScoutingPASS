@@ -1,11 +1,11 @@
 var config_data = `
 {
   "dataFormat": "tsv",
-  "title": "Scouting PASS 2024",
-  "page_title": "Crescendo",
+  "title": "VDScout 2024",
+  "page_title": "Crescendo by VDScout",
   "checkboxAs": "10",
   "prematch": [
-    { "name": "Scouter Initials",
+    { "name": "Scouter's Initials",
       "code": "s",
       "type": "scouter",
       "size": 5,
@@ -104,10 +104,7 @@ var config_data = `
     }
   ],
   "endgame": [
-    { "name": "Stage Timer",
-      "code": "dt",
-      "type": "timer"
-    },
+
     { "name": "Final Status",
       "code": "fs",
       "type":"radio",
