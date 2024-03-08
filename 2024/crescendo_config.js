@@ -1,8 +1,7 @@
 var config_data = `
 {
   "dataFormat": "tsv",
-  "enable_google_sheets": "true",
-  "title": "VDScout 2024",
+  "enable_google_sheets": "false",
   "page_title": "Crescendo by VDScout",
   "checkboxAs": "10",
   "prematch": [
