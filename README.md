@@ -1,10 +1,11 @@
 <div id="top"></div>
-THIS ONE IS NEW AND FUNCTIONS!!!!!!! (mostly) 
- qr codes work
- just go here next time
+THIS ONE IS NEW AND FUNCTIONS!!!!!!! (mostly);
+
+
+but  just go here next time
  https://sites.google.com/view/3490scoutingform/home?authuser=1
- come get me for the username and password
- Scouting P.A.S.S.
+ (come get me for the username and password)
+
 
 #### A scouting system for FIRST FRC competitions developed by [PWNAGE - Team #2451](https://pwnagerobotics.org).
 
